@@ -1,4 +1,4 @@
-// Q7. Even or Odd check
+// Q4. Even or Odd check
 
 #include <iostream>
 using namespace std;
