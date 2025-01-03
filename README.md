@@ -4,8 +4,6 @@ Contents:
 
 Basic Programs: Simple C++ programs to get you started with the language.
 
-Data Structures: Implementations of various data structures such as arrays, linked lists, stacks, queues, trees, and graphs.
-
 Algorithms: Common algorithms including sorting, searching, and dynamic programming.
 
 Object-Oriented Programming (OOP): Examples and projects that demonstrate the principles of OOP, including classes, inheritance, polymorphism, and encapsulation.
